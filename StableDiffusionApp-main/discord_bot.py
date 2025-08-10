@@ -54,3 +54,6 @@ async def imagine(ctx, *, prompt: str):
 # Run the bot
 if __name__ == "__main__":
     bot.run(DISCORD_TOKEN)
+
+
+
